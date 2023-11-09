@@ -116,7 +116,7 @@ write_log([['index','filename','group','sample','stage','target','edit','method'
         'len(valid_reads)','wt','precise_edit','unintended_edit','percent_wt','percent_precise','percent_error']])
 
 ## INPUTS ##
-folder = '/scratch/gpfs/rm52/PEmbryo_data/target_sequencing/input_libraries/'
+folder = 'input_libraries/'
 sample_list = pd.read_excel('PEmbryo_sample_sheet_master.xlsx',sheet_name="samples") # the sample list
 ref_df = pd.read_excel('PEmbryo_sample_sheet_master.xlsx',sheet_name="edits") # the reference sequences
 
