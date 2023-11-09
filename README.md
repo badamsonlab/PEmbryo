@@ -1,7 +1,7 @@
 # PEmbryo
 scripts related to PEmbryo work
 
-Below are examples of command line arguments to run "PEmbryo_align_" .py scripts to evaluate editing efficiency on samples/datasets based on the specific target site and target edit. The scripts pull edit details and relevant filenames from 'PEmbryo_sample_sheet_master.xlsx'. Fastq files for the relevant samples, available through SRA, must be stored in a directory called "input_libraries/" or the path updated in the script. 
+Below are examples of command line arguments to run "PEmbryo_align_" .py scripts to evaluate editing efficiency on collected samples/datasets based on the specific target site and target edit. The scripts pull edit details and relevant filenames from 'PEmbryo_sample_sheet_master.xlsx'. Fastq files for the relevant samples, available through SRA, must be stored in a directory called "input_libraries/" or the path updated in the script. 
 
 #tubb5;G>A
 #dnmt1;G>T
