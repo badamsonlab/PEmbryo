@@ -1,3 +1,3 @@
 # PEmbryo
-scripts related to PEmbryo work
+scripts and dependent files related to PEmbryo work
 
