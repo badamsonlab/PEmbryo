@@ -1,4 +1,7 @@
-# details on running provided scripts
+PEmbryo_align_1.py = determination of prime editing outcomes from target site sequencing data (300nt single-end) when considering both a primary edit site and secondary nick site ala PE3/PE5 methods
+PEmbryo_align_2.py = determination of prime editing outcomes from target site sequencing data (300nt single-end) when considering only a single primary edit site (no secondary nick)
+
+Details on running provided scripts:
 
 Below are examples of command line arguments to run "PEmbryo_align_" .py scripts to evaluate editing efficiency on collected samples/datasets based on the specific target site and target edit. The scripts pull edit details and relevant filenames from 'PEmbryo_sample_sheet_master.xlsx'. Fastq files for the relevant samples, available through SRA, must be stored in a directory called "input_libraries/" or the path updated in the script. 
 
