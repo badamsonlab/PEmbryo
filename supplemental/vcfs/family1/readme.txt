@@ -1,1 +1,8 @@
-
+*sample_name	sample_title	*organism	strain	isolate	*collection_date	*geo_loc_name	*sex	*tissue	treatment	description
+PEmbryo_WGS_Mouse_PE4_family_male_parent	PEmbryo_WGS_1	mus musculus	C57Bl/6J 	parent	4/1/22	USA: New Jersey, Princeton Univ.	male	spleen	none	control
+PEmbryo_WGS_Mouse_PE4_family_female_parent	PEmbryo_WGS_1a	mus musculus	C57Bl/6J 	parent	4/1/22	USA: New Jersey, Princeton Univ.	female	spleen	none	control
+Pembryo_WGS_Mouse_PE4_family_offspring_1	PEmbryo_WGS_1a.1	mus musculus	C57Bl/6J 	offspring 1	4/1/22	USA: New Jersey, Princeton Univ.	male	embryo	injected at the two-cell stage with PE4 components (nCas9-RT, pegRNA, mMLH1dn) targeting Chd2 +5 G>A edit	treated
+Pembryo_WGS_Mouse_PE4_family_offspring_2	PEmbryo_WGS_1a.2	mus musculus	C57Bl/6J 	offspring 2	4/1/22	USA: New Jersey, Princeton Univ.	female	embryo	injected at the two-cell stage with PE4 components (nCas9-RT, pegRNA, mMLH1dn) targeting Chd2 +5 G>A edit	treated
+Pembryo_WGS_Mouse_PE4_family_offspring_3	PEmbryo_WGS_1a.3	mus musculus	C57Bl/6J 	offspring 3	4/1/22	USA: New Jersey, Princeton Univ.	male	embryo	injected at the two-cell stage with PE4 components (nCas9-RT, pegRNA, mMLH1dn) targeting Chd2 +5 G>A edit	treated
+Pembryo_WGS_Mouse_PE4_family_offspring_4	PEmbryo_WGS_1a.4	mus musculus	C57Bl/6J 	offspring 4	4/1/22	USA: New Jersey, Princeton Univ.	female	embryo	injected at the two-cell stage with nCas9-RT only	control
+Pembryo_WGS_Mouse_PE4_family_offspring_5	PEmbryo_WGS_1a.5	mus musculus	C57Bl/6J 	offspring 5	4/1/22	USA: New Jersey, Princeton Univ.	female	embryo	injected at the two-cell stage with nCas9-RT only	control
