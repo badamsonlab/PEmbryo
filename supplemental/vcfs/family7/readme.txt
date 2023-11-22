@@ -1,1 +1,5 @@
-
+*sample_name	sample_title	*organism	strain	isolate	*collection_date	*geo_loc_name	*sex	*tissue	treatment	description
+Pembryo_WGS_Mouse_PE2_family_offspring_1	PEmbryo_WGS_7_1	mus musculus	C57Bl/6J 	offspring 7_1	3/1/23	USA: New Jersey, Princeton Univ.	male	embryo	injected at the two-cell stage with pegRNA only	control
+Pembryo_WGS_Mouse_PE2_family_offspring_2	PEmbryo_WGS_7_2	mus musculus	C57Bl/6J 	offspring 7_2	3/1/23	USA: New Jersey, Princeton Univ.	male	embryo	injected at the two-cell stage with pegRNA only	control
+Pembryo_WGS_Mouse_PE2_family_offspring_3	PEmbryo_WGS_7_3	mus musculus	C57Bl/6J 	offspring 7_3	3/1/23	USA: New Jersey, Princeton Univ.	male	embryo	injected at the two-cell stage with PE2* components (PEmax editor, pegRNA) targeting Chd2 +5 G>A edit	treated
+Pembryo_WGS_Mouse_PE2_family_offspring_4	PEmbryo_WGS_7_4	mus musculus	C57Bl/6J 	offspring 7_4	3/1/23	USA: New Jersey, Princeton Univ.	female	embryo	injected at the two-cell stage with PE2* components (PEmax editor, pegRNA) targeting Chd2 +5 G>A edit	treated
